@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Hicoderwebapp/static/css/main.107a9a60.chunk.css",
+    "main.js": "/Hicoderwebapp/static/js/main.f2bcdb1a.chunk.js",
+    "main.js.map": "/Hicoderwebapp/static/js/main.f2bcdb1a.chunk.js.map",
+    "runtime-main.js": "/Hicoderwebapp/static/js/runtime-main.a002cc3e.js",
+    "runtime-main.js.map": "/Hicoderwebapp/static/js/runtime-main.a002cc3e.js.map",
+    "static/js/2.3022cee4.chunk.js": "/Hicoderwebapp/static/js/2.3022cee4.chunk.js",
+    "static/js/2.3022cee4.chunk.js.map": "/Hicoderwebapp/static/js/2.3022cee4.chunk.js.map",
+    "index.html": "/Hicoderwebapp/index.html",
+    "static/css/main.107a9a60.chunk.css.map": "/Hicoderwebapp/static/css/main.107a9a60.chunk.css.map",
+    "static/js/2.3022cee4.chunk.js.LICENSE.txt": "/Hicoderwebapp/static/js/2.3022cee4.chunk.js.LICENSE.txt",
+    "static/media/Hi_coder.bebae81c.png": "/Hicoderwebapp/static/media/Hi_coder.bebae81c.png",
+    "static/media/index.css": "/Hicoderwebapp/static/media/footer-bg.b5c8ae10.jpg",
+    "static/media/counter3.ef1d408b.png": "/Hicoderwebapp/static/media/counter3.ef1d408b.png",
+    "static/media/counter4.4a2bea03.png": "/Hicoderwebapp/static/media/counter4.4a2bea03.png",
+    "static/media/highcoder_1.4657df0a.jpg": "/Hicoderwebapp/static/media/highcoder_1.4657df0a.jpg",
+    "static/media/highcoder_2.953f463e.jpg": "/Hicoderwebapp/static/media/highcoder_2.953f463e.jpg",
+    "static/media/newsbloglogo.884296bf.png": "/Hicoderwebapp/static/media/newsbloglogo.884296bf.png",
+    "static/media/newsimg1.47c37d7c.jpg": "/Hicoderwebapp/static/media/newsimg1.47c37d7c.jpg",
+    "static/media/newsimg2.2647f5ab.jpg": "/Hicoderwebapp/static/media/newsimg2.2647f5ab.jpg",
+    "static/media/newsimg3.6067449f.jpg": "/Hicoderwebapp/static/media/newsimg3.6067449f.jpg",
+    "static/media/projectmanagement.d7eb76ba.png": "/Hicoderwebapp/static/media/projectmanagement.d7eb76ba.png",
+    "static/media/testimonal.191f8a8f.jpg": "/Hicoderwebapp/static/media/testimonal.191f8a8f.jpg",
+    "static/media/whyhicoder.e2305520.jpg": "/Hicoderwebapp/static/media/whyhicoder.e2305520.jpg",
+    "static/media/whyhighcoder2.3a400892.jpg": "/Hicoderwebapp/static/media/whyhighcoder2.3a400892.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a002cc3e.js",
+    "static/js/2.3022cee4.chunk.js",
+    "static/css/main.107a9a60.chunk.css",
+    "static/js/main.f2bcdb1a.chunk.js"
+  ]
+}
